@@ -1,0 +1,102 @@
+[
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "info",
+            "name": "Información",
+            "description": "Mensajes informativos generales",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "success",
+            "name": "Éxito",
+            "description": "Confirmación de acciones exitosas",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "warning",
+            "name": "Advertencia",
+            "description": "Atención necesaria pero no crítica",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "error",
+            "name": "Error",
+            "description": "Errores del sistema o usuario",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "assignment",
+            "name": "Asignación",
+            "description": "Asignación de tareas o proyectos",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "state_change",
+            "name": "Cambio de estado",
+            "description": "Cambio en el estado de tareas/proyectos",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "comment",
+            "name": "Comentario",
+            "description": "Nuevo comentario en tareas",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "project_assign",
+            "name": "Asignación a proyecto",
+            "description": "Fuiste asignado a un proyecto",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "reminder",
+            "name": "Recordatorio",
+            "description": "Notificaciones programadas o vencimientos",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    },
+    {
+        "model": "notifications.notificationtype",
+        "fields": {
+            "code": "mention",
+            "name": "Mención",
+            "description": "Alguien te mencionó en un comentario",
+            "created_at": "2025-06-21T00:00:00Z",
+            "updated_at": "2025-06-21T00:00:00Z"
+        }
+    }
+]
